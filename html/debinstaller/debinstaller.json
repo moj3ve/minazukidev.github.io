@@ -1,0 +1,61 @@
+{
+	"class": "DepictionTabView",
+	"minVersion": "0.1",
+	"headerImage": "https://minazukidev.github.io/banner/debinstallerbanner.png",
+	"tintColor": "#0000FF",
+	"tabs":
+	[
+		{
+			"class":"DepictionStackView",
+			"tabname": "Details",
+			"views":
+			[
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "This is an app that installs deb files all at once.  The deb is\n installed by tapping one by one, but by placing the deb in\n/ Applications / DebInstaller / deb, you can install the deb\n "ignoring dependencies" collectively.  I don't think you use it\n often, but it will be a useful app for those who are backing\n up deb.",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Latest Version",
+					"text": "1.0-beta1"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Github",
+					"action" : "https://github.com/MinazukiDev"
+				},
+				{
+					"class": "DepictionTableButtonView",
+					"title": "Follow me on Twitter",
+					"action" : "https://twitter.com/Minazuki_dev"
+				}
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname": "Changelog",
+			"views":
+			[
+                                 {
+					"class": "DepictionSubheaderView",
+					"title": "Version 1.0-beta1",
+					"useBoldText": true
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "**New Features:**\n* First release.",
+					"useSpacing": true
+				},
+                         {
+					"class": "DepictionSubheaderView",
+					"title": "October 26, 2019",
+					"useBoldText": false
+				}
+			]
+		}
+	]
+}

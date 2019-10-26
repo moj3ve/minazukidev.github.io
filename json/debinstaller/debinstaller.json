@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "This is an app that installs deb files all at once.  The deb is installed by tapping one by one, but by placing the deb in \n/ Applications / DebInstaller / deb, you can install the deb "ignoring dependencies" collectively.  I don't think you use it often, but it will be a useful app for those who are backing up deb.",
+					"markdown": "This is an app that installs deb files at once.  By placing deb in / Applications / DebInstaller / deb, you can install deb all together and ignore dependencies.",
 					"useSpacing": true
 				},
 				{

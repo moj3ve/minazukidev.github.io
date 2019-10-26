@@ -7,7 +7,7 @@
          "url":"https://minazukidev.github.io/banner/debinstallerbanner.png",
          "title":"DebInstaller",
          "package":"com.minazuki.debinstaller",
-         "hideShadow":false
+         "hideShadow":true
       }
    ]
 }

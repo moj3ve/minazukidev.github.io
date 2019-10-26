@@ -51,14 +51,14 @@ Section: Utilities
 Maintainer: Minazuki
 Installed-Size: 80
 Filename: ./debs/com.minazuki.debinstaller_1.0-beta1_iphoneos-arm.deb
-Size: 15480
-MD5sum: 587dec57d6ecfed53efcc0a9271e0fae
-SHA1: 8dffd29fc38518bf383f2ea9aa86d8cac1ab6e4f
-SHA256: e0e0970b9bbdc8de9e94589d1b5c88e10f3210209a57a9c273362aa76fc5cc33
-SHA512: 2fd381a3b0e2a27ebece3c55b8ed28eb878db672979ee097fdff1701445578a811e2a80b45a4655056ace076fd2dbab301e40edec27cb220442d06abcbd869c1
+Size: 15478
+MD5sum: 11b5984342343118f6ed78c7514e9437
+SHA1: 751c0d527fcdf1a7846e15c9cf244676e0f968b2
+SHA256: 2748791f5d6787997f9e474fb49e6226a89d54c5c64f669fab64212abf879da9
+SHA512: 69f527efd0e8de286fc074003d4a55ba5d6989b2a82d6cb7e3fa87373aca0992ba4b482c36a3f3e2d56094581c4ded5730659ed5fa97d2cc514762d955200006
 Description: Install many deb files at once.
 Name: Deb Installer (BETA)
-SileoDepiction: https://minazukidev.github.io/html/debinstaller/debinstaller.json
+SileoDepiction: https://minazukidev.github.io/json/debinstaller/debinstaller.json
 Depiction: https://minazukidev.github.io/html/debinstaller/index.html
 Author: Minazuki
 icon: https://minazukidev.github.io/icon/debinstallericon.png

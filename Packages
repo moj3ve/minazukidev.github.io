@@ -6,20 +6,21 @@ Maintainer: Minazuki
 Installed-Size: 104
 Depends:
 Filename: ./debs/aptf.deb
-Size: 78656
-MD5sum: 43328c4e222556a9f0a7a6445d39b8a1
-SHA1: 146aee97dd7a612dbaf5c8d7f22dc1d9e9257b5e
-SHA256: 2f2921f169eca69e6db433ef82b90c49152c56a5929ab6d8ce52a6d0041d9348
-SHA512: 214be918338c7d3f47dea3c19576110d1982bcd2749a1e08933181b373fbd7394b5516e8f8853f444f4f92f770f7a8d34388f29659a2f86ad8b5675820dac898
+Size: 78704
+MD5sum: 773e66197c1f67265b2fe8bf32eb4b97
+SHA1: 70f3a3d73d5aeb513c0b8e2a4edc65f0933d68fd
+SHA256: 8106549dbc97c572b08674a4e95d52cbf3210daff0aba28204fcc484c667db2e
+SHA512: f4ffa6915b82121ac6fcd0e81feed3a82e769cfbe3d88d0af4bd544a2aab51e2c1a0d3f3525a224792f848dbfae9d262f5b05c9ffe0ff4852e8c2da62587a312
 Homepage:
 Description: apt-ftparchive
 Tag: purpose::extension
 Author: Minazuki
 Name: apt-ftparchive
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
 Depiction:
 Sponsor:
 dev: Rowl
-Icon:
+icon: https://minazukidev.github.io/icon/systemicon.png
 
 Package: com.minazuki.adsblocker
 Architecture: iphoneos-arm
@@ -71,20 +72,21 @@ Maintainer: Minazuki
 Installed-Size:
 Depends:
 Filename: ./debs/du.deb
-Size: 90692
-MD5sum: 4d3279f90ea5f176d1866fa40ec1344d
-SHA1: 9f61b5309405b64a847be918f89e6922b7a6067c
-SHA256: cbfad33ca18e6ceafcb4d5fac0fbe0fb0bd05573efc20e20907d40dac99a93e6
-SHA512: 555d8837f90129005227171d353d78b1c4a01ae61ff75e98baeea2a4d64742c18519f40ce7abbcd08214090a94a151ba2429af7d49e9574d0f698f2d426eea51
+Size: 90740
+MD5sum: c4235b0469c7cc282567cac1f08761c3
+SHA1: 5ebbeab4cccc1085a8f345a0f78a2ef7da9988ee
+SHA256: a6a8372db47dfd4597ee1c2c104887caea2960e9ebc084ed8762252717163a9b
+SHA512: e09511419e6e23d7bae143fdef30f44f046ed2df9b171cbb7c974540264454385ec16e76ef7980c04ae899ada2767810d121a9e7aa678b9a3bb7bca3b90f07ed
 Homepage:
 Description: du (Chimera Support)
 Tag: purpose::extension
 Author: Minazuki
 Name: du (Chimera Support)
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
 Depiction:
 Sponsor:
 dev: Minazuki
-Icon:
+icon: https://minazukidev.github.io/icon/systemicon.png
 
 Package: com.minazuki.libdb62
 Architecture: iphoneos-arm
@@ -94,20 +96,21 @@ Maintainer: Minazuki
 Installed-Size:
 Depends:
 Filename: ./debs/libdb-6.2.deb
-Size: 615940
-MD5sum: 796b60f7848b85ee19e9bd66a6f56408
-SHA1: a20d649d9c8f0188266f7f38f38f3a682f89bcc5
-SHA256: 2b430130f44e438fe27ec9a6d2a771d23408f798cecc8fbc456c464ab88db08a
-SHA512: 0a930b33da86e80cdc274c5b587d63d4b6380759ec7aa6ee6bf401b8278a74adad522a0f652fc78f19c381a5da98191267a621a2701cd5fd5f8d6e00c700cf23
+Size: 615984
+MD5sum: 63bff0fd350dd15306f6ce6bd4d15a0a
+SHA1: 50fe226ff54aa4a6a489ef9cbef7df3f638f749f
+SHA256: 09486533ab63527cec3bb9939b3fee4fcde7308c852a9a5a4603ac287e0b27a2
+SHA512: de86b775f0de752256ea937885a6d89fef2782442f01a5f97da647ee123f74fb1d02ff362d8a913cbe47dc14666ba3974fef65e42883c96fbca824e157de216f
 Homepage:
 Description: libdb-6.2
 Tag: purpose::extension
 Author: Minazuki
 Name: libdb-6.2
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
 Depiction:
 Sponsor:
 dev: Minazuki
-Icon:
+icon: https://minazukidev.github.io/icon/systemicon.png
 
 Package: com.minazuki.md5sum
 Architecture: iphoneos-arm
@@ -117,18 +120,19 @@ Maintainer: Minazuki
 Installed-Size:
 Depends:
 Filename: ./debs/md5sum.deb
-Size: 33716
-MD5sum: a63ed20df91da987b33d13ddd7a6cd60
-SHA1: e2f9e06042564e25c3ce37655446b7f4cf4c1ce4
-SHA256: ce79bbfede368a56a004d5ea02e1a2ea18444bd2e06510c5d28f2aced3280d35
-SHA512: 5318b6bec0b97c9b95e0ca767f167db57bf97c26b6df06e4a630880da8c83fcb48a04447afc98ce7d98465d9d63dcef1bc93759541d8296c5381db90ca32608e
+Size: 33764
+MD5sum: 4c7acad8d2a757c216dd58d49ffb63c3
+SHA1: 355123c8016262c5f83661d3638fde04ccf80060
+SHA256: 9949ca22e07474db5f9e66aa337afe84ee301f7371a38a8d3e73fa7128fe1a6b
+SHA512: 6d783240a2612355d17a2bab5a194c0f59f7c71c7f43c96fe7b1be12ead029a0d52e4c69a1bcdae337817e0c32e3815ba3f759b3fce526589f564fbf7d19401d
 Homepage:
 Description: md5sum
 Tag: purpose::extension
 Author: Minazuki
 Name: md5sum
+SileoDepiction: https://minazukidev.github.io/json/system/system.json
 Depiction:
 Sponsor:
 dev: Minazuki
-Icon:
+icon: https://minazukidev.github.io/icon/systemicon.png
 

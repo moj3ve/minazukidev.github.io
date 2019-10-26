@@ -2,7 +2,7 @@
 	"class": "DepictionTabView",
 	"minVersion": "0.1",
 	"headerImage": "https://minazukidev.github.io/banner/debinstallerbanner.png",
-	"tintColor": "#3838af",
+	"tintColor": "#FF9932",
 	"tabs":
 	[
 		{
@@ -12,7 +12,7 @@
 			[
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "coming soon",
+					"markdown": "This is an app that installs deb files all at once.  The deb is installed by tapping one by one, but by placing the deb in \n/ Applications / DebInstaller / deb, you can install the deb "ignoring dependencies" collectively.  I don't think you use it often, but it will be a useful app for those who are backing up deb.",
 					"useSpacing": true
 				},
 				{

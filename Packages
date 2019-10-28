@@ -136,3 +136,27 @@ Sponsor:
 dev: Minazuki
 icon: https://minazukidev.github.io/icon/systemicon.png
 
+Package: com.minazuki.uicache
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Terminal_Support
+Maintainer: Minazuki
+Installed-Size:
+Depends:
+Filename: ./debs/uicache.deb
+Size: 928
+MD5sum: b19faf2d0f263a8e27358381540186dc
+SHA1: 52222e205f01bbc663211171715a71f5da7a335b
+SHA256: bfd94408021d9fc059ecb52e81c6879d48c53198ef53bd9853bc0a4cacf6e44c
+SHA512: 82da77d3b4cdef1ae2b191957756d69dde4b30f5869052cf98930ce4dcd748db257889b9db2c50e4f26c1a9d3f66a5895a1cba5f584eb9bfbed59a6b1f0c4db4
+Homepage:
+Description: uicache -all ≫ u only.
+Tag: purpose::extension
+Author: Minazuki
+Name: uicache (Chimera)
+SileoDepiction: https://minazukidev.github.io/json/terminal/terminal.json
+Depiction:
+Sponsor:
+dev: Minazuki
+icon: https://minazukidev.github.io/icon/terminalicon.png
+
